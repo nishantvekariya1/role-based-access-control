@@ -98,3 +98,13 @@ This project is a **Dashboard Web Application** built using the MERN stack (Mong
 
 ## Live project
 [Live Demo](https://role-based-access-control-git-master-nishants-projects-742dbba7.vercel.app/)
+
+## For User Credential
+
+- **Email**: user@gmail.com
+- **Password**: user123
+
+## For Admin Credential
+
+- **Email**: admin@gmail.com
+- **Password**: admin123
