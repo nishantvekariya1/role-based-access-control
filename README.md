@@ -13,19 +13,19 @@ This project is a **Dashboard Web Application** built using the MERN stack (Mong
 
 ### Screenshots
 - **Login Page**
-![Login Page](https://github.com/your-username/your-repo-name/blob/master/Screenshots/login.png)
+![Login Page](https://github.com/nishantvekariya1/role-based-access-control/blob/master/screenshots/login.png)
 
 - **Register Page**
-![Register Page](https://github.com/your-username/your-repo-name/blob/master/Screenshots/register.png)
+![Register Page](https://github.com/nishantvekariya1/role-based-access-control/blob/master/screenshots/register.png)
 
 - **Home Page (Without Login)**
-![Home Page - Without Login](https://github.com/your-username/your-repo-name/blob/master/Screenshots/homepage.png)
+![Home Page - Without Login](https://github.com/nishantvekariya1/role-based-access-control/blob/master/screenshots/homepage.png)
 
 - **Home Page (Admin Login)**
-![Home Page - Admin Login](https://github.com/your-username/your-repo-name/blob/master/Screenshots/adminpage.png)
+![Home Page - Admin Login](https://github.com/nishantvekariya1/role-based-access-control/blob/master/screenshots/adminpage.png)
 
 - **Home Page (User Login)**
-![Home Page - User Login](https://github.com/your-username/your-repo-name/blob/master/Screenshots/userpage.png)
+![Home Page - User Login](https://github.com/nishantvekariya1/role-based-access-control/blob/master/screenshots/userpage.png)
 
 ## Features
 
