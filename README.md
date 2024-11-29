@@ -95,3 +95,6 @@ This project is a **Dashboard Web Application** built using the MERN stack (Mong
         ```
 
 6. Open your browser and navigate to `http://localhost:5000` to view the dashboard application.
+
+## Live project
+[Live Demo](https://role-based-access-control-git-master-nishants-projects-742dbba7.vercel.app/)
