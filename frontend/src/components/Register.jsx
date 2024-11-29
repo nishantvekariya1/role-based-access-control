@@ -12,11 +12,14 @@ const Register = () => {
   const handleRegister = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/api/auth/register", {
-        name,
-        email,
-        password,
-      });
+      await axios.post(
+        "https://role-based-access-control-3ifb.onrender.com/api/auth/register",
+        {
+          name,
+          email,
+          password,
+        }
+      );
       alert("Registration Successful! You can now log in.");
       navigate("/login");
     } catch (err) {
